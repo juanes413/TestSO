@@ -6,3 +6,5 @@ Se agregaron screenshot para mostrar como quedo, la APP cuenta con mapas de appl
 # URL
 
 Se uso al URL para obtener los paises https://restcountries.com/v2/all ya que la documentacion de la pagina https://rapidapi.com/apilayernet/api/rest-countries-v1 genero novedad y error 404.
+
+# Tiene buscador de paises
