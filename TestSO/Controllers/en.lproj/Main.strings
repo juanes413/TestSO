@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "Paises"; ObjectID = "4KW-zs-oIk"; */
+"4KW-zs-oIk.title" = "Paises";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "HQb-yF-ORp"; */
+"HQb-yF-ORp.normalTitle" = "GO";
+
+/* Class = "UILabel"; text = "Bogota"; ObjectID = "SKR-M6-uJL"; */
+"SKR-M6-uJL.text" = "Bogota";
+
+/* Class = "UILabel"; text = "AMERICA"; ObjectID = "gU1-AK-fhG"; */
+"gU1-AK-fhG.text" = "AMERICA";
+
+/* Class = "UILabel"; text = "COLOMBIA"; ObjectID = "pKY-1V-0br"; */
+"pKY-1V-0br.text" = "COLOMBIA";
